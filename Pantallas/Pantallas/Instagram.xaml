@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Pantallas.Instagram">
+    <StackLayout Orientation="Vertical" Padding="20">
+
+        <StackLayout>
+
+            <Label Text="nyc_photographer" />
+
+        </StackLayout>
+
+        <Image Source="kirito.png" />
+
+        <StackLayout Orientation="Horizontal">
+
+            <Button Text="Like" />
+            <Button Text="coment"/>
+            <Button Text="share"/>
+
+        </StackLayout>
+
+        <StackLayout>
+
+            <BoxView Color="Blue" HeightRequest="1"/>
+            <Label Text="700 likes " FontAttributes="Bold"/>
+            <Label Text="Note that the image is ﬁlling the entire page horizontally, but we have some padding around other elements. To implement this, you can have a parent StackLayout that ﬁlls the page horizontally, and a nested StackLayout with some padding"
+                   TextColor="Green"/>
+
+
+        </StackLayout>
+        
+    </StackLayout>
+    
+    
+</ContentPage>

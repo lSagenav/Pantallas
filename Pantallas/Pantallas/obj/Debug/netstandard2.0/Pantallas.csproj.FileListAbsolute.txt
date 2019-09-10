@@ -1,0 +1,15 @@
+D:\Proyectos Xamarin\Pantallas\Pantallas\Pantallas\bin\Debug\netstandard2.0\Pantallas.deps.json
+D:\Proyectos Xamarin\Pantallas\Pantallas\Pantallas\bin\Debug\netstandard2.0\Pantallas.dll
+D:\Proyectos Xamarin\Pantallas\Pantallas\Pantallas\bin\Debug\netstandard2.0\Pantallas.pdb
+D:\Proyectos Xamarin\Pantallas\Pantallas\Pantallas\obj\Debug\netstandard2.0\Pantallas.csprojAssemblyReference.cache
+D:\Proyectos Xamarin\Pantallas\Pantallas\Pantallas\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Proyectos Xamarin\Pantallas\Pantallas\Pantallas\obj\Debug\netstandard2.0\calculadora.xaml.g.cs
+D:\Proyectos Xamarin\Pantallas\Pantallas\Pantallas\obj\Debug\netstandard2.0\Instagram.xaml.g.cs
+D:\Proyectos Xamarin\Pantallas\Pantallas\Pantallas\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+D:\Proyectos Xamarin\Pantallas\Pantallas\Pantallas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Proyectos Xamarin\Pantallas\Pantallas\Pantallas\obj\Debug\netstandard2.0\Pantallas.csproj.CoreCompileInputs.cache
+D:\Proyectos Xamarin\Pantallas\Pantallas\Pantallas\obj\Debug\netstandard2.0\Pantallas.AssemblyInfoInputs.cache
+D:\Proyectos Xamarin\Pantallas\Pantallas\Pantallas\obj\Debug\netstandard2.0\Pantallas.AssemblyInfo.cs
+D:\Proyectos Xamarin\Pantallas\Pantallas\Pantallas\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Proyectos Xamarin\Pantallas\Pantallas\Pantallas\obj\Debug\netstandard2.0\Pantallas.dll
+D:\Proyectos Xamarin\Pantallas\Pantallas\Pantallas\obj\Debug\netstandard2.0\Pantallas.pdb
